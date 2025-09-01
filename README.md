@@ -9,10 +9,11 @@ This project predicts DNA enhancer sequences using a deep learning model with fo
 
 ## 📂 Folder Structure
 - `dataset/`: Train and Test dataset
-- `logs/`: Training log
-- `models/`: Saved model
-- `src/`: requirements, training, and testing scripts
+- `log/`: Training log
+- `model/`: Saved model
 - `result/`: Test result
+- `src/`: requirements, training, and testing scripts
+
 
 
 ## Experimental Results
