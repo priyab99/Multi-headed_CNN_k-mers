@@ -1,0 +1,2 @@
+Model,Accuracy,AUC,Sensitivity,Specificity,MCC
+full_model.pkl,0.7725,0.84195,0.8,0.745,0.5458261873858559
