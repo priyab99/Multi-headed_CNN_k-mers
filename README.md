@@ -1,4 +1,4 @@
-# Enhancer Prediction using k-mer Features and Multi-Headed CNN
+# Predicting enhancer DNA utilizing k-mer features and multi-headed CNN
 
 This project predicts DNA enhancer sequences using a deep learning model with four parallel CNN branches, each processing a different k-mer representation (k=1,2,3,4).
 
@@ -9,9 +9,9 @@ This project predicts DNA enhancer sequences using a deep learning model with fo
 
 ## 📂 Folder Structure
 - `dataset/`: Train and Test dataset
-- `src/`: requirements, training, and testing scripts
 - `logs/`: Training log
 - `models/`: Saved model
+- `src/`: requirements, training, and testing scripts
 - `result/`: Test result
 
 
